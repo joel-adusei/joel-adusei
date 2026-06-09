@@ -1,6 +1,6 @@
 # 🙋‍♂️ Introducing myself
 
-### 🌟 Data Analyst | Business Intelligence Professional | Data Specialist
+### 🌟 Data Analyst | Data Scientist | Business Intelligence Professional 
 
 Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data analytics! 😊
 
@@ -15,28 +15,35 @@ I am detail-oriented, strategic, creative, and highly collaborative. These quali
 ## ⚡ Core Competencies
 
 * **Data Analysis:** Analyze complex datasets (within any industry) to identify trends, patterns, and key performance indicators.
-* **Data Visualization:** Create insightful, interactive dashboards and visualizations using Tableau, Power BI, and Excel.
+* **Data Visualization:** Create insightful, interactive dashboards and visualizations using Power BI, Tableau and Excel.
 * **SQL & Database Management:** Query, clean, and manage large-scale data across various database systems with SQL.
-* **Statistical Programming:** Apply data manipulation and exploratory data analysis (EDA) techniques using Python/R and relevant libraries.
+* **Statistical Programming:** Apply data manipulation and exploratory data analysis (EDA) techniques using Python and relevant libraries.
 
 
 ## 🛠️ Technical Toolkit
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white)](https://lookerstudio.google.com/)
-[![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-fabric)
+<div align="left">
+  <!-- Core Data Analytics & Languages -->
+  <img src="https://img.shields.io/badge/Python-7F00FF?style=flat-square&logo=python&logoColor=fff&labelColor=11192E" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7F00FF?style=flat-square&logo=postgresql&logoColor=fff&labelColor=11192E" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Excel-7F00FF?style=flat-square&logo=microsoft-excel&logoColor=fff&labelColor=11192E" alt="Excel" />
+  
+  <!-- Data Visualization & BI -->
+  <img src="https://img.shields.io/badge/Power_BI-7F00FF?style=flat-square&logo=power-bi&logoColor=fff&labelColor=11192E" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-7F00FF?style=flat-square&logo=tableau&logoColor=fff&labelColor=11192E" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker_Studio-7F00FF?style=flat-square&logo=google-looker&logoColor=fff&labelColor=11192E" alt="Looker Studio" />
+</div>
 
 ---
 
+
 ## 🌏 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<div align="left">
+  <a href="https://github.com/joel-adusei" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff&labelColor=11192E" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/joel-adusei/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff&labelColor=11192E" alt="LinkedIn" /></a>
+  <a href="mailto:joeladusei01@gmail.com?subject=Data%20Analyst%20Inquiry%20--%20GitHub%20Portfolio"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=fff&labelColor=11192E" alt="Email" /></a>
+</div>
 
 ---
 
